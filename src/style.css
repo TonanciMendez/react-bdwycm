@@ -1,0 +1,23 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.imagen {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.columnas {
+  display: flex;
+}
+
+.personajes{
+  width: 50%;
+}
+.favoritos {
+  width: 50%;
+  background-color: darkolivegreen;
+}
